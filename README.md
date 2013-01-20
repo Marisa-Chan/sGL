@@ -1,0 +1,4 @@
+sGL
+===
+
+Stereo preload library
