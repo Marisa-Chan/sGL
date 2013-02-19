@@ -4,3 +4,20 @@
 	<stdlib.h>
 	<dlfcn.h>
 
+1361257955 source:/home/zidane/git/sGL/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<dlfcn.h>
+
+1361261852 source:/home/zidane/git/sGL/src/ogl.c
+	<stdio.h>
+	<stdlib.h>
+	<dlfcn.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<GL/glu.h>
+
+1361284594 source:/home/zidane/git/sGL/src/sdl_1xx.c
+	<dlfcn.h>
+	<SDL/SDL_video.h>
+
